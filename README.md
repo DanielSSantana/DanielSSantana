@@ -2,14 +2,13 @@ Olá sou o Daniel Santana, Desenvolvedor .NET caminho para Full Stack enquanto m
 
 Habilitado para:
  <hr/>
- C#
+ .Net
  Docker
  SQL SERVER
  Postgres
  HTML
  CSS
  JavaScript
- Hybernate 
  Bootstrap
  Azure
  

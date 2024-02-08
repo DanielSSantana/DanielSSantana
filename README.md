@@ -2,6 +2,9 @@
 
 Desenvolvedor de software desde 2016, tenho ampla experiência em tecnologias como .NET Core, .NET 6, SQL Server e Angular, demonstrando habilidades tanto no desenvolvimento back-end quanto front-end, capacitando-me a enfrentar desafios complexos em diferentes domínios de negócios.
 
+Este repositório está sendo utilizado apenas a título de portfolio. Projetos grandes que atuo no mercado de trabalho são versionados em repositorios privados. 
+Aqui você encontrará o projeto CadCenter.
+
 🔗 [LinkedIn](https://www.linkedin.com/in/danielsilvasantana/)
 
 🛠️ Tecnologias: 
